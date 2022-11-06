@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/metric-to-schema/static/css/main.31d6cfe0.css",
+    "main.js": "/metric-to-schema/static/js/main.ead5a51a.js",
+    "index.html": "/metric-to-schema/index.html",
+    "main.ead5a51a.js.map": "/metric-to-schema/static/js/main.ead5a51a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.ead5a51a.js"
+  ]
+}
