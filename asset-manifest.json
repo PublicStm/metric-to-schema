@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/metric-to-schema/static/css/main.31d6cfe0.css",
-    "main.js": "/metric-to-schema/static/js/main.ead5a51a.js",
+    "main.css": "/metric-to-schema/static/css/main.dcf185c4.css",
+    "main.js": "/metric-to-schema/static/js/main.02c54542.js",
     "index.html": "/metric-to-schema/index.html",
-    "main.ead5a51a.js.map": "/metric-to-schema/static/js/main.ead5a51a.js.map"
+    "main.dcf185c4.css.map": "/metric-to-schema/static/css/main.dcf185c4.css.map",
+    "main.02c54542.js.map": "/metric-to-schema/static/js/main.02c54542.js.map"
   },
   "entrypoints": [
-    "static/css/main.31d6cfe0.css",
-    "static/js/main.ead5a51a.js"
+    "static/css/main.dcf185c4.css",
+    "static/js/main.02c54542.js"
   ]
 }
